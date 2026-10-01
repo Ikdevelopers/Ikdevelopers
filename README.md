@@ -8,7 +8,7 @@
 
 <!-- BANNER SVG — Replace this URL after you upload dark.svg to your repo -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ikdevelopers/Ikdevelopers/main/dark.svg" alt="Ikrama Dev Banner" width="100%"/>
+  <img src="./dark.svg" alt="Ikrama Dev Banner" width="100%"/>
 </p>
 
 ---
@@ -20,21 +20,23 @@
 🎓 Enrolled in **IBM Full Stack Software Engineer** course on Coursera  
 🏢 **Frontend Development Intern** @ Decode Labs (Remote)  
 💼 **Freelance WordPress Developer** on Fiverr (Elementor Pro · WooCommerce · Landing Pages)  
-🚀 Building cool projects with **MERN · Next.js · GSAP · AI APIs**  
+🚀 Building cool projects with **MERN · Next.js · TypeScript · GSAP · AI APIs**  
 🤖 Currently building **Dino Delivery** — an AI-powered WhatsApp bot (Node.js + Gemini + Meta API)  
+🛠️ Recent projects: **BurgerDrop · Employee Management System · Teacher Test Maker · Node Cleaner**  
 📢 **Building in Public** on LinkedIn → [@Ikdeveloper](https://linkedin.com/in/ikdeveloper)  
+🐙 GitHub → [@Ikdevelopers](https://github.com/Ikdevelopers)  
 🎯 Portfolio: *Coming Soon*  
-📫 Contact: *connectikrama@gmail.com*
+📫 Contact: [connectikrama@gmail.com](mailto:connectikrama@gmail.com)
 
 ---
 
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ikdeveloper)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ikdevelopers)
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com/YOUR_FIVERR)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+923471797336)
 
 ---
+
 
 ## 💻 Tech Stack:
 
@@ -56,7 +58,10 @@
 **AI & Tools**
 
 ![Google Gemini](https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
@@ -64,13 +69,13 @@
 
 ## 🚀 Featured Projects:
 
+
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🦕 **Dino Delivery** | AI WhatsApp bot for local delivery startup — Roman Urdu parsing, Gemini 2.5 Flash, human-handoff | Node.js · Express · Gemini · Meta API · Google Sheets |
-| 🎬 **K72 Animation Clone** | Pixel-perfect clone of K72.com — complex GSAP micro-interactions & marquee transitions | React · GSAP |
-| 📝 **Teacher Test Maker** | Full MERN/Next.js migration of a static test-maker web app | Next.js · App Router · Tailwind |
-| 📰 **Markdown Blog Admin** | Blog admin panel parsing local `.md` files — dynamic routing & image fallback | Next.js · shadcn/ui · gray-matter |
-
+| 🚚 **Delivery Automation System** | End-to-end delivery management — order tracking, driver assignment & real-time status updates | Node.js · Express · MongoDB · React |
+| 👨‍💼 **Employee Management System** | Full-stack HR tool for managing records, attendance, roles & payroll for small businesses | Next.js · MongoDB · Tailwind · TypeScript |
+| 🍔 **BurgerDrop** | KFC-style fast food website — menu showcase, cart system & smooth animations | React · Tailwind · GSAP · Node.js |
+| 📝 **Teacher Test Maker** | Full MERN/Next.js migration of a static test-maker web app | Next.js · App Router · Tailwind · MongoDB |
 ---
 
 ## 📊 GitHub Stats:
@@ -87,25 +92,9 @@
 
 ---
 
-## 🏆 GitHub Trophies:
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ikdevelopers&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
-</p>
 
----
 
-## 🐍 Contribution Graph:
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ikdevelopers/Ikdevelopers/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Ikdevelopers&icon=0&color=6" alt="Profile Views"/>
-</p>
 
 <p align="center">
   <i>✨ "Build things. Break things. Learn. Repeat." 🚀</i>
